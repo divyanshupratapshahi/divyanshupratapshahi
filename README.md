@@ -5,7 +5,7 @@
 
 <br>
 
-### 01 /hey, i'm divyanshu! 👋
+### 01 /hey, i'm Divyanshu Shahi! 👋
 
 
 i'm curious about how things work, especially when it comes to making machines see and understand the world.
